@@ -13,6 +13,8 @@ Users should be able to view the optimal layout depending on their device's scre
 
 **Mobile version**
 
+![image](https://github.com/KJabeen/Four-Card-Feature-Section/assets/126177876/078b1875-bba2-4024-81df-f92f8350fba9)
+
  
 **My work based on**
 
