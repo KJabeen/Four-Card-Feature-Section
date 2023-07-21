@@ -142,7 +142,7 @@
 .authorized a{
     color: var(--Slightly-transparent-white-stat-headings);
 }
-@media only screen and (max-width: 425px){
+@media only screen and (max-width: 450px){
   
   body{
    
